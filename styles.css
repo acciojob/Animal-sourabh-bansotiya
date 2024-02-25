@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	background-color: gray;
+	margin-right: 20px;
+	margin-left: 20px;
+	border-color: grey;
+}
+#photo-heading{
+	color: white;
+	text-align: center;
+}
+.animal{
+	border-radius: 20px;
+	width: 200px;
+	margin: 3.2px;
+}
+#pic{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfZ5uv0sUV6D7OQm_5_rTfNVpqgsdqASCdNAx2KABeCO3jkFOZfOTcZruoOfgIeVdjz0&usqp=CAU");
+	background-image: 20px 20px;
+}
